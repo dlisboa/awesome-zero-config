@@ -22,6 +22,7 @@ configuration files and command line flags.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - `grep` substitute, by default ripgrep will respect gitignore rules and automatically skip hidden files/directories and binary files.
 - [sd](https://github.com/chmln/sd) - an easier, faster `sed`, with sensible defaults for the 99% use case. 
 - [fd](https://github.com/sharkdp/fd) - a simple, fast and user-friendly alternative to `find`, no flags needed for the most common cases.
+- [eza](https://github.com/eza-community/eza) - modern alternative to `ls` with better default options.
 
 ### Editors
 
