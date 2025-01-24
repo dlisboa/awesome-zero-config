@@ -29,6 +29,7 @@ configuration files and command line flags.
 [⬆️ back to top](#table-of-contents)
 
 - [helix](https://github.com/helix-editor/helix) - a Kakoune/Neovim inspired editor, written in Rust. Has multi-cursors, LSP support, and more out of the box.
+- [Zed](https://github.com/zed-industries/zed) - a high-performance, multiplayer editor. Comes standard with all the usual niceties plus LSP, project management, collaborative editing and AI assist.
 
 ### Shells
 
