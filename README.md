@@ -23,6 +23,7 @@ configuration files and command line flags.
 - [sd](https://github.com/chmln/sd) - an easier, faster `sed`, with sensible defaults for the 99% use case. 
 - [fd](https://github.com/sharkdp/fd) - a simple, fast and user-friendly alternative to `find`, no flags needed for the most common cases.
 - [eza](https://github.com/eza-community/eza) - modern alternative to `ls` with better default options.
+- [xh](https://github.com/ducaale/xh) - friendly and fast tool for sending HTTP requests, like HTTPie with a focus on performance.
 
 ### Editors
 
